@@ -188,7 +188,7 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 
 - **GitHub:** [HieuStudyingCS](https://github.com/HieuStudyingCS)
 - **LinkedIn:** [Hieu Le](https://www.linkedin.com/in/1lth/)
-- **Resume:** [Resume](https://drive.google.com/file/d/1cNXdzpqr_ytRwiQm7F0MXjPEyeitJb-C/view)
+- **Resume:** [Resume](https://drive.google.com/file/d/1OwOHq1xgNIgBm0LRj2UblSEpIiWqHUV7/view?usp=sharing)
 
 <br />
 
