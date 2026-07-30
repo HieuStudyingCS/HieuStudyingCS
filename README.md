@@ -195,12 +195,16 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 ## GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HieuStudyingCS&theme=github_dark" alt="GitHub profile details" />
+  <img height="180" src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HieuStudyingCS&theme=github_dark" alt="GitHub stats summary" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HieuStudyingCS&theme=github_dark" alt="GitHub repositories by language" />
+  <img height="180" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats summary" />
+  <img height="180" src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="GitHub repositories by language" />
+</p>
+
+<p align="center">
+  <sub>Cards are regenerated automatically by GitHub Actions so the numbers stay in sync with your latest public activity.</sub>
 </p>
 
 <br />
