@@ -26,7 +26,7 @@
 
 ## About me
 
-I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.edu.vn/), with a deep passion for **Machine Learning**, **Data Science**, and **Quantitative Research**. I thrive on analytical problem-solving and rigorous software engineering workflows.
+I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.edu.vn/), with a deep passion for **Machine Learning**, **Data Science**, and **Quantitative Research**.
 
 - 🎓 Currently exploring the mathematical foundations of CS and building AI/ML fundamentals.
 - 👨‍💻 Active member at **BHTCNPM** (UIT) and **GDGoC-HCMUS**, building learning resources for peers.
