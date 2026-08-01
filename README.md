@@ -168,6 +168,7 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 <h3>🎓 Education</h3>
 <ul>
   <li><b>B.Sc. Computer Science</b> | University of Information Technology (UIT) - VNUHCM <i>(Expected 2029)</i></li>
+  <li><b>Relevant Coursework</b>: Machine Learning, Probability & Statistics <i>(8.8)</i>, Linear Algebra <i>(9.6)</i>, Calculus <i>(9.8)</i>, Data Structures & Algorithms <i>(9.0)</i>, Discrete Structure <i>(9.9)</i></li>
 </ul>
 
 <h3>🏆 Certifications</h3>
