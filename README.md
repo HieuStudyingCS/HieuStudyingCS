@@ -30,6 +30,7 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 
 - 🎓 Currently exploring the mathematical foundations of CS and building AI/ML fundamentals.
 - 👨‍💻 Active member at **BHTCNPM** (UIT) and **GDGoC-HCMUS**, building learning resources for peers.
+- 🧠 Passionate about programming, algorithms, data structures, and problem solving through consistent practice and problem-solving discipline.
 - ⚙️ Focused on disciplined SWE practices: `Conventional Commits`, `CI/CD`, and `Design Patterns`.
 - 📊 **Targeting:** AI Research, Quantitative Trading Roles, and solidifying my English proficiency (IELTS 7.0+).
 - 📫 Always open to **academic discussions**, **collaborations**, and **learning opportunities**.
@@ -117,18 +118,18 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 
 <table width="100%">
   <tr>
-<td width="50%" valign="top">
-      <h3>C++ Knowledge Handbook</h3>
-      <p><em>Comprehensive Educational Resource</em></p>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HieuStudyingCS/quantvn-vn-markets">QuantVN Markets</a></h3>
+      <p><em>RSI Vectorized Trading Strategy Research</em></p>
       <p>
-        <img src="https://img.shields.io/badge/BHTCNPM-Project-7C5CFF?style=flat-square&labelColor=08090D" />
-        <img src="https://img.shields.io/badge/Documentation-Active-38E1FF?style=flat-square&labelColor=08090D" />
+        <img src="https://img.shields.io/badge/QuantVN-Scholarship-7C5CFF?style=flat-square&labelColor=08090D" />
+        <img src="https://img.shields.io/badge/Pandas-Vectorized-38E1FF?style=flat-square&labelColor=08090D" />
       </p>
-      <p>A comprehensive guide bridging C++ fundamentals (syntax, control flow) with low-level mechanics. Features deep dives into language processors, under-the-hood execution (e.g., memory allocation), I/O buffers, and compilation processes.</p>
-      <p><code>C++</code> · <code>Docusaurus</code> · <code>Pre-commit</code></p>
+      <p>A Python-based quant research project built around an <strong>RSI Vectorized</strong> strategy for the Vietnamese market. The logic uses a 14-period RSI, buying when RSI drops below 30 and taking profit when it rises above 70, while keeping the full signal generation and backtest flow vectorized with <strong>Pandas</strong> for better performance on larger historical datasets. The project also includes edge-case handling for flat price movement and was used as part of a successful <strong>QuantVN Scholarship</strong> application.</p>
+      <p><code>Python</code> · <code>Pandas</code> · <code>Technical Analysis</code> · <code>Backtesting</code> · <code>QuantVN</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>C++ Performance Benchmark</h3>
+      <h3><a href="https://github.com/HieuStudyingCS/Strategy-Pattern-Performance-Benchmark">C++ Performance Benchmark</a></h3>
       <p><em>Algorithm Efficiency Measurement System</em></p>
       <p>
         <img src="https://img.shields.io/badge/Architecture-Design%20Patterns-7C5CFF?style=flat-square&labelColor=08090D" />
@@ -149,13 +150,14 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
       <p><code>Python</code> · <code>Scikit-learn</code> · <code>Pandas</code> · <code>EDA</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>URL Shortener UI</h3>
-      <p><em>Fessior DevCamp 2026 Project</em></p>
+      <h3><a href="https://github.com/HieuStudyingCS/LTH-Algorithm-Atlas">LTH Algorithm Atlas</a></h3>
+      <p><em>Algorithm &amp; Data Structures Solution Archive</em></p>
       <p>
-        <img src="https://img.shields.io/badge/Frontend-Completed-38E1FF?style=flat-square&labelColor=08090D" />
+        <img src="https://img.shields.io/badge/LeetCode-Active-7C5CFF?style=flat-square&labelColor=08090D" />
+        <img src="https://img.shields.io/badge/CSES-Notes-38E1FF?style=flat-square&labelColor=08090D" />
       </p>
-      <p>Developed the frontend user interface for a URL shortener application, ensuring code quality with pre-commit linting hooks.</p>
-      <p><code>HTML/CSS</code> · <code>JavaScript</code> · <code>Commitlint</code></p>
+      <p>A personal algorithm atlas for documenting and practicing problems from <strong>LeetCode</strong>, <strong>CSES</strong>, and <strong>Codeforces</strong>. Each folder keeps the solution code together with a clear editorial so the approach, edge cases, and complexity analysis stay easy to review.</p>
+      <p><code>C++</code> · <code>Python</code> · <code>Data Structures</code> · <code>Algorithms</code> · <code>Competitive Programming</code></p>
     </td>
   </tr>
 </table>
