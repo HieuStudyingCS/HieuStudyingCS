@@ -175,6 +175,8 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 <ul>
   <li><a href="https://www.coursera.org/account/accomplishments/verify/E2NDEOZMIGB9">Advanced Learning Algorithms | DeepLearning.AI & Stanford University</a></li>
   <li><a href="https://coursera.org/share/756b1dd6c1f1fd1eae810747169904c8">Supervised Machine Learning | Stanford University & DeepLearning.AI</a></li>
+  <li><a href="https://drive.google.com/file/d/1MZqSkmU71of3bWrZq3-xRLId7qLYscSd/view?usp=sharing">Google Project Management Essentials | Google Career Certificates</a></li>
+  <li><a href="https://drive.google.com/file/d/1bsQM4D53cTAYnvX4qI-Bfc0D_daC4hQY/view?usp=sharing">Foundations of Agile Project Management | Google Career Certificates</a></li>
   <li><a href="https://coursera.org/share/253a76914c96a1b401e34b08d76be3a6">Google AI Essentials | Google Career Certificates</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/AJE916AKVU25?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n">Google Prompting Essentials | Google Career Certificates</a></li>
   <li><a href="https://www.udemy.com/certificate/UC-1e4339dd-e676-46f5-b33c-a595f31f4bac/">Machine Learning Foundations - Full Stack AI Engineer | Data Science Academy</a></li>
