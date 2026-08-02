@@ -93,7 +93,7 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 
 <br />
 
-## Work Experience
+## Experience
 
 <h3>Undergraduate Researcher</h3>
 <p><strong>ELO@UIT - Evolutionary Learning &amp; Optimization</strong> | <em>Advisor: Dr. Luong Ngoc Hoang</em><br />
