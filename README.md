@@ -29,9 +29,9 @@
 I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.edu.vn/), with a deep passion for **Machine Learning/Deep Learning**, **Optimization**, and **AI Research**.
 
 - 🎓 Currently exploring the mathematical foundations of CS and building AI/ML fundamentals.
-- 👨‍💻 Active member at **Software Engineering Academic Club (BHTCNPM) UIT** and **GDGoC-HCMUS**, building learning resources for peers.
+- 👨‍💻 Active member at **Software Engineering Academic Club (BHTCNPM) UIT** and **GDGoC-HCMUS**.
 - 🧠 Passionate about programming, algorithms, data structures, and problem solving through consistent practice and problem-solving discipline.
-- 📊 **Targeting:** AI Research, Quantitative Trading Roles, and solidifying my English proficiency (IELTS 7.0+).
+- 📊 **Targeting:** AI Research and solidifying my English proficiency (IELTS 7.0+).
 - 📫 Always open to **academic discussions**, **collaborations**, and **learning opportunities**.
         
 <br />
