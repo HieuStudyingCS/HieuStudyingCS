@@ -23,4 +23,5 @@ jobs:
           BRANCH_NAME: main
           THEME: github_dark
           UTC_OFFSET: 7
+          EXCLUDE: html,css
           AUTO_PUSH: true
