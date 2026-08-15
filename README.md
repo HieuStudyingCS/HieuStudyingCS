@@ -173,7 +173,7 @@ I'm a **first-year Computer Science student** at [UIT - VNUHCM](https://www.uit.
 
 <h3>🏆 Certifications</h3>
 <ul>
-  <li><a href= "https://www.coursera.org/account/accomplishments/specialization/5TWC1AZQ0NIQ"> Machine Learning Specialization | DeepLearning.AI & Coursera</a></li>
+  <li><a href= "https://www.coursera.org/account/accomplishments/specialization/5TWC1AZQ0NIQ"> Machine Learning Specialization | DeepLearning.AI</a></li>
   <li><a href="https://drive.google.com/file/d/1MZqSkmU71of3bWrZq3-xRLId7qLYscSd/view?usp=sharing">Google Project Management Essentials | Google Career Certificates</a></li>
   <li><a href="https://www.coursera.org/account/accomplishments/specialization/MYM1MTCAKQLD">Google Agile Essentials | Google Career Certificates</a></li>
   <li><a href="https://coursera.org/share/253a76914c96a1b401e34b08d76be3a6">Google AI Essentials | Google Career Certificates</a></li>
